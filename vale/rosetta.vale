@@ -1,0 +1,10 @@
+exported func main() {
+  print("P3\n256 256\n255\n");
+
+  foreach r in range(0, 256) {
+      foreach g in range(0, 256) {
+          print(str(r) + " " + str(g) + " 0 ");
+      }
+    print("\n");
+  }
+}

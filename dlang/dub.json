@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Noah Rosamilia"
+	],
+	"copyright": "Copyright © 2022, Noah Rosamilia",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "rosetta"
+}

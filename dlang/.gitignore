@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/rosetta
+rosetta.so
+rosetta.dylib
+rosetta.dll
+rosetta.a
+rosetta.lib
+rosetta-test-*
+*.exe
+*.o
+*.obj
+*.lst
