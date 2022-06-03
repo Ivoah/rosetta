@@ -1,0 +1,1 @@
+lua rosetta.lua
